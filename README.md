@@ -1,5 +1,5 @@
 # Introduction (Giới thiệu):
-This is an AI chatbot based on Gemini API key built from scratch by Hoàng Minh Thái.
+This is an AI chatbot based on Gemini API key built from scratch by Hoàng Minh Thái using Python and CSS programming language.
 
 ![image](https://github.com/meanthai/AI-Chatbot-By-Hoang-Minh-Thai/assets/147926426/e41b0f4d-ad1f-4dda-be89-da76421972e8)
 
