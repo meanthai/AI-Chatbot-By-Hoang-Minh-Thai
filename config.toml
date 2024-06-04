@@ -1,6 +1,0 @@
-[server]
-enableStaticServing = true
-
-[theme]
-secondaryBackgroundColor="grey"
-backgroundColor="grey"
